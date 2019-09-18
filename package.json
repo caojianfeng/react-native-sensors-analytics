@@ -1,6 +1,6 @@
 {
-  "name": "@sensors.data/react-native-sensors-analytics",
-  "version": "1.1.0",
+  "name": "@je255rey/react-native-sensors-analytics",
+  "version": "1.1.1",
   "private": false,
   "description": "神策分析 RN 组件",
   "main": "index.js",
@@ -19,5 +19,5 @@
     "type": "git",
     "url": "git+https://github.com/sensorsdata/react-native-sensors-analytics.git"
   },
-   "homepage": "https://github.com/sensorsdata/react-native-sensors-analytics"
+  "homepage": "https://github.com/sensorsdata/react-native-sensors-analytics"
 }
